@@ -4,7 +4,7 @@ Advinhe qual número aleatório de 1 a 100 foi escolhido.
 
 Conforme as tentativas, o programa ajudará a saber se o número escolhido está perto ou longe de ser acertado.
 
-## _Exemplo
+## _Exemplo_
 
 ```
 ---> QUENTE E FRIO <---
